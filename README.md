@@ -25,6 +25,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Development and Machine Lea
 
 ## 🌐 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/bachtiarrizap)
+- LinkedIn: [Bachtiar Riza Pratama](www.linkedin.com/in/bachtiarrizap)
 
 Thanks for visiting my profile, and feel free to check out my repositories!
