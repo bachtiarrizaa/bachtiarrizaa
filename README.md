@@ -4,24 +4,24 @@ Welcome to my GitHub profile! I'm a passionate **[Your Field or Profession]** sp
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning: **[Current Technologies or Skills]**
-- 💡 Interested in: **[Your Interests]**
+- 🌱 I’m currently learning: **Machine Learning**
+- 💡 Interested in: **Web Development and Machine Learning**
 - 💼 Currently working on: **[Your Current Projects]**
 - 💬 Ask me about: **[Topics you're good at or want to help with]**
-- 📫 How to reach me: **[Your email or LinkedIn profile]**
+- 📫 How to reach me: **bachtiarrizap@gmail.com**
 - ⚡ Fun fact: **[Fun fact about you]**
-
-## 🛠️ Technologies & Tools I Use
-
-- Programming languages: **[Languages like Python, JavaScript, PHP, etc.]**
-- Frameworks: **[Laravel, Django, React, etc.]**
-- Tools & Platforms: **[Git, Docker, etc.]**
-- Databases: **[MySQL, PostgreSQL, etc.]**
-- Machine Learning: **[If applicable, list libraries like TensorFlow, PyTorch, etc.]**
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarrizaa&show_icons=true&theme=radical)
+
+## 🛠️ Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarrizaa&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=bachtiarrizaa&theme=radical)
 
 ## 📂 Featured Projects
 
@@ -40,4 +40,3 @@ Here are some of my favorite projects:
 - Portfolio: [Link to your portfolio if any]
 
 Thanks for visiting my profile, and feel free to check out my repositories!
-
