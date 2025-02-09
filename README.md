@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Development and Machine Lea
 
 - 🌱 I’m currently learning: **Machine Learning**
 - 💡 Interested in: **Web Development and Machine Learning**
-- 💼 Currently working on: **Glakucoma Detection Using CNN**
+- 💼 Currently working on: **Glakucoma Detection Using Ensembel CNN & Segmentation Optic Cup and Optic Disc**
 - 💬 Ask me about: **-**
 - 📫 How to reach me: **bachtiarrizap@gmail.com**
 - ⚡ Fun fact: **i'm introvert**
