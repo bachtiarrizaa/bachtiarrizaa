@@ -1,30 +1,67 @@
-# Hi there 👋, I'm Bachtiar Riza Pratama!
+# Hi there 👋, I'm Bachtiar Riza Pratama
 
-Welcome to my GitHub profile! I'm a passionate **Web Development and Machine Learning** specializing in **Machine Learning**. I love to create and contribute to open-source projects, solve problems using technology, and continuously learn and improve. Here's a bit more about me:
+## 👋 Introduction
+
+Hi, I’m **Bachtiar Riza Pratama** — a **Backend Developer** with a strong foundation in web development and a growing focus on **Fullstack and DevOps**. I enjoy designing backend systems, building scalable APIs, and connecting them with modern frontend applications. I prefer learning by building real projects and understanding how things work under the hood.
+
+---
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning: **Machine Learning**
-- 💡 Interested in: **Web Development and Machine Learning**
-- 💼 Currently working on: **Glakucoma Detection Using Ensembel CNN & Segmentation Optic Cup and Optic Disc**
-- 💬 Ask me about: **-**
-- 📫 How to reach me: **bachtiarrizap@gmail.com**
-- ⚡ Fun fact: **i'm introvert**
+I’m a **fresh graduate** and currently working as a **Backend Developer Intern at GeekGarden**. My main focus is developing and maintaining backend services using **Laravel** and **Node.js** (Express & NestJS). On the frontend side, I work with **React** to build clean and functional user interfaces.
 
-## 📊 GitHub Stats
+My long-term goal is to grow as a **Fullstack Engineer** with solid **DevOps fundamentals**, starting from a strong backend background. I enjoy working on structured systems, clean code, and continuously improving my technical depth.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bachtiarrizaa&show_icons=true&theme=radical)
+Fun fact: I recently switched to **Linux**, love exploring and configuring my development environment, enjoy solving problems independently, and I’m a **coffee enthusiast** ☕.
 
-## 🛠️ Most Used Languages
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarrizaa&layout=compact&theme=radical)
+## 🛠️ Tech Stack
+
+### Backend
+
+* Laravel (PHP)
+* Node.js (Express, NestJS)
+* RESTful API Development
+
+### Frontend
+
+* React
+* JavaScript
+* Inertia.js
+* Tailwind CSS
+
+### Database & DevOps
+
+* MySQL, PostgreSQL
+* Docker
+* Git & GitHub
+* Linux (Ubuntu-based)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bachtiarrizaa\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarrizaa\&layout=compact\&theme=radical)
+
+---
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=bachtiarrizaa&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bachtiarrizaa\&theme=radical\&row=1\&column=6)
 
-## 🌐 Let's Connect!
+---
 
-- LinkedIn: [Bachtiar Riza Pratama](www.linkedin.com/in/bachtiarrizap)
+## 🌐 Connect With Me
 
-Thanks for visiting my profile, and feel free to check out my repositories!
+* 💼 LinkedIn: [Bachtiar Riza Pratama](https://www.linkedin.com/in/bachtiarrizap)
+* 📸 Instagram: [@bachtiarrizaa](https://www.instagram.com/bachtiarrizaa)
+* ✍️ Medium: [medium.com/@bekkk](https://medium.com/@bekkk)
+* 📧 Email: **[bachtiarrizap@gmail.com](mailto:bachtiarrizap@gmail.com)**
+
+---
+
+⭐ Thanks for visiting my profile!
+I’m open to collaboration, learning opportunities, and meaningful discussions around backend, fullstack development, and DevOps.
