@@ -42,15 +42,16 @@ Fun fact: I recently switched to **Linux**, love exploring and configuring my de
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bachtiarrizaa&show_icons=true&theme=radical&cache_seconds=1800&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bachtiarrizaa&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarrizaa&layout=compact&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bachtiarrizaa&layout=compact&theme=radical)
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bachtiarrizaa&theme=radical&margin-w=10&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bachtiarrizaa&theme=radical&no-frame=true&margin-w=15)
 
 ---
 
