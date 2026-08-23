@@ -71,17 +71,11 @@ I specialize in designing and building scalable backend systems, constructing ro
 ### 🏥 **Toko Kesehatan**
 - **Description**: An online health store and medicine catalog e-commerce system, managing product inventories, categories, cart checkouts, and transaction flows.
 
----
-
-## 📊 GitHub Statistics & Trophies
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bachtiarrizaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bachtiarrizaa&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bachtiarrizaa&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bachtiarrizaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bachtiarrizaa&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
