@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/bachtiarrizaa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&background=00000000&width=550&height=40&lines=Hi%2C+I'm+Bachtiar+Riza+Pratama+👋;Backend+Developer+at+GeekGarden;Informatics+Graduate+of+UPN+Veteran+Jatim+🎓;Laravel%2C+NestJS%2C+Express%2C+and+Go;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=7aa2f7&background=00000000&width=650&height=40&lines=Hi+there%2C+I'm+Bachtiar+Riza+Pratama+👋;Currently+a+Backend+Developer+at+GeekGarden+💻;For+backend%2C+I+usually+use+Go%2C+Laravel%2C+NestJS+%26+Express+🚀;For+frontend%2C+I+work+with+React%2C+Next.js+%26+Nuxt.js+🎨;Growing+towards+Fullstack+%26+exploring+DevOps!+⚙️" alt="Typing SVG" />
   </a>
 </p>
 
@@ -100,9 +100,6 @@ I specialize in designing and building scalable backend systems, constructing ro
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bachtiarrizaa&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
-</p>
 
 ---
 
