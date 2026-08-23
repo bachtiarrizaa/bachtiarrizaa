@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Bachtiar Riza Pratama
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=Bachtiar%20Riza%20Pratama&fontSize=35&animation=fadeIn&theme=tokyonight" alt="Header Waving Banner" />
+</p>
 
 <p align="center">
   <a href="https://github.com/bachtiarrizaa">
@@ -22,11 +24,13 @@ I specialize in designing and building scalable backend systems, constructing ro
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
@@ -56,9 +60,6 @@ I specialize in designing and building scalable backend systems, constructing ro
 - **Stack**: NestJS (TypeScript), MikroORM (PostgreSQL), Redis, Xendit Payment Gateway.
 - **Description**: Scalable service reservation backend featuring secure JWT authentication, real-time availability checks, transaction reporting via ExcelJS, and seamless payment gateway integration using Xendit.
 
-### 💼 **HRIS Asthara (Backend)**
-- **Stack**: NestJS, MikroORM, PostgreSQL, TypeScript, Jest.
-- **Description**: Enterprise-grade HR & attendance system backend. Includes automated database migrations, strict ESLint/Prettier code quality pipelines, and robust unit/E2E test suites with Jest.
 
 ### 💳 **IMS Finance & MJO E-Wallet**
 - **Stack**: Laravel, Duitku Payment Gateway, Laravel Wallet, Redis.
@@ -78,6 +79,10 @@ I specialize in designing and building scalable backend systems, constructing ro
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bachtiarrizaa&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bachtiarrizaa&theme=tokyonight" alt="GitHub Activity Graph" width="100%" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -95,6 +100,10 @@ I specialize in designing and building scalable backend systems, constructing ro
   <a href="mailto:bachtiarrizap@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/bachtiarrizaa/count.svg" alt="Visitor Counter" />
 </p>
 
 ---
