@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/bachtiarrizaa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=7aa2f7&background=00000000&width=650&height=40&lines=Hi+there%2C+I'm+Bachtiar+Riza+Pratama+👋;Currently+a+Backend+Developer+at+GeekGarden+💻;For+backend%2C+I+usually+use+Go%2C+Laravel%2C+NestJS+%26+Express+🚀;For+frontend%2C+I+work+with+React%2C+Next.js+%26+Nuxt.js+🎨;Growing+towards+Fullstack+%26+exploring+DevOps!+⚙️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=7aa2f7&background=00000000&width=850&height=40&lines=Hi+there%2C+I'm+Bachtiar+Riza+Pratama+👋;Currently+a+Backend+Developer+at+GeekGarden+💻;For+backend%2C+I+usually+use+Go%2C+Laravel%2C+NestJS+%26+Express+🚀;For+frontend%2C+I+work+with+React%2C+Next.js+%26+Nuxt.js+🎨;Growing+towards+Fullstack+%26+exploring+DevOps!+⚙️" alt="Typing SVG" />
   </a>
 </p>
 
