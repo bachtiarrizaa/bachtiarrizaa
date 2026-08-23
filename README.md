@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=Bachtiar%20Riza%20Pratama&fontSize=35&animation=fadeIn&theme=tokyonight" alt="Header Waving Banner" />
-</p>
+# Hi there 👋, I'm Bachtiar Riza Pratama
 
 <p align="center">
   <a href="https://github.com/bachtiarrizaa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&background=00000000&width=450&height=40&lines=Backend+Developer;Laravel+%26+NestJS+Specialist;Golang+%26+Python+Enthusiast;Growing+Fullstack+%26+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&background=00000000&width=550&height=40&lines=Hi%2C+I'm+Bachtiar+Riza+Pratama+👋;Backend+Developer+at+GeekGarden;Informatics+Graduate+of+UPN+Veteran+Jatim+🎓;Laravel%2C+NestJS%2C+Express%2C+and+Go;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -103,7 +101,7 @@ I specialize in designing and building scalable backend systems, constructing ro
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/bachtiarrizaa/count.svg" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=bachtiarrizaa&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
 </p>
 
 ---
